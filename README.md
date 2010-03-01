@@ -12,7 +12,11 @@ My first few attempts were incredible slow to converge on a rational approximati
 Usage
 -----
 
-TODO: sample input/output
+    $ perl designerdecimal.pl Lyndon B. Johnson
+    For the name 'Lyndon B. Johnson':
+      Your designer decimal is 1.076121110100111110032066046032074111104110115111110004
+      Your rational approximation is 1162140322362708323736326654 / 1079934508723274540452148297
+    Took 53 iterations
 
 Attribution
 -----
