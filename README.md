@@ -18,10 +18,10 @@ Usage
       Your rational approximation is 1162140322362708323736326654 / 1079934508723274540452148297
     Took 53 iterations
 
-Attribution
+Thanks To
 -----
 
-* ["Algorithm to Convert a Decimal to a Fraction"](http://homepage.smc.edu/kennedy_john/DEC2FRAC.PDF) by John Kennedy, for describing a performant rational approximation algorithm.
+["Algorithm to Convert a Decimal to a Fraction"](http://homepage.smc.edu/kennedy_john/DEC2FRAC.PDF) by John Kennedy, for describing a performant rational approximation algorithm.
 
 License
 -----
